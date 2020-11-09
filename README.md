@@ -10,4 +10,4 @@ Just uncomment the method's call you want to run and type on your terminal:
 ```
 
 ---
-<small>Check [challenge instructions](https://drive.google.com/file/d/11G4Y3zI7jOTREQD0qZuBU2Rghy1qzAUy/view?usp=sharing)</small>
+<sub><sup>Check [challenge instructions](https://drive.google.com/file/d/11G4Y3zI7jOTREQD0qZuBU2Rghy1qzAUy/view?usp=sharing)</sub></sup>
